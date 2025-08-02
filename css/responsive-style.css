@@ -1,0 +1,51 @@
+@media (max-width: 991px) {
+/* Custom Class */
+.text-content{
+    width: 100%;
+}
+
+/* Navbar */
+.navigation-wrap .navbar-brand img{
+    height: 3.8125rem;
+} 
+.navigation-wrap{
+    text-align: center;
+    background-color: var(--white-color);
+} 
+.navigation-wrap .nav-link{
+    line-height: 1.875rem;
+}
+/* Banner Customization */
+.top-banner{
+padding: 9.375rem 0 9.375rem
+}
+
+/* Carousel Design */
+
+}
+
+@media (max-width: 767px){
+    /* Custom CSS */
+    h1{
+        font-size: 2.8rem;
+    }
+    h2{
+        line-height: 2.0625rem;
+        font-size: 2rem;
+    }
+
+    /* Top Banner */
+    .top-banner{
+        padding: 10.875rem 0 9.375rem;
+    }
+
+    /* Middle Banner Section */
+    .middle-banner-section{
+        height: auto;
+        padding:3rem 0;
+    }    
+
+    /* Carousel Design */
+
+    /* Footer */ 
+}
